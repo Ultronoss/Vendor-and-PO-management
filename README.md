@@ -28,9 +28,9 @@ A RESTful API for managing vendors and tracking purchase orders (POs), along wit
 
 ## Tech Stack <a name = "techstack"></a>
 
-- Backend Framework: Django 4.x
+- Backend Framework: Django 5.x
 - API Framework: Django REST Framework
-- Database: SQLite (default; can be switched to other databases like PostgreSQL)
+- Database: SQLite (default)
 - Language: Python 3.x
 
 ### Project Structure<a name = "project_structure"></a>
